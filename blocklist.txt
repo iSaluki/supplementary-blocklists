@@ -1,0 +1,9 @@
+! Strict
+! Designed for pihole
+! Only use in conjunction with other blocklists, this is just to catch a few sneaky sites that skip around the edges
+! This may cause breakages
+
+||analytics.google.com
+||browser.sentry-cdn.com
+||appmetrica.yandex.ru
+||
