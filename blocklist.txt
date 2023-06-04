@@ -6,4 +6,3 @@
 ||analytics.google.com
 ||browser.sentry-cdn.com
 ||appmetrica.yandex.ru
-||
